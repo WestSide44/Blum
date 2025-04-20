@@ -1,4 +1,4 @@
-import oss
+import os
 import time
 import random
 import math
