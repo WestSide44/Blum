@@ -1,4 +1,5 @@
-import oss
+import cv2
+import os
 import time
 import random
 import math
